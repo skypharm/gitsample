@@ -63,13 +63,22 @@ header{
   text-align:center;
   }
 
-
+.category-wrapper img{
+  width:300px;
+}
 
 .category-wrapper h3{
-  font-size:20px;
+  font-size:23px;
   letter-spacing:4px;
   color:red;
+  background-color:#eee;
+   padding-top:15px;
+  padding-bottom:15px;
+  margin-right:300px;
+  margin-left:300px;
 }
+
+
 
 .category-wrapper h4{
   background-color:#eee;
@@ -77,6 +86,12 @@ header{
   padding-bottom:15px;
   margin-right:300px;
   margin-left:300px;
+}
+
+.category-wrapper h5{
+  font-size:15px;
+  letter-spacing:3px;
+ 
 }
 
 footer img{

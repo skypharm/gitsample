@@ -13,7 +13,7 @@ header{
 }
 
 .logo{
-  height:50px;
+  height:65px;
   width:124px;
   float:left;
 
@@ -31,18 +31,21 @@ header{
 }
 
 .product-wrapper{
-  padding-top:100px;
-  height:550px;
+  padding-top:50px;
+  height:570px;
   text-align:center;
   background-color: #f7f7f7;
 }
 
-
+.product-wrapper h1{
+  padding-top:30px;
+}
 
 .product-icon p{
   font-size:20px;
+  font-weight:bold;
   margin-top:10px;
-  margin-left:5px;
+  margin-left:10px;
 }
 
 .product{
@@ -51,13 +54,12 @@ header{
 }
 
 .product img{
-  width:370px;
+  width:360px;
 }
 
-.detail{
+.detail p{
   padding-left:40px;
 }
-
 
 .message-wrapper{
   text-align:center;
@@ -67,6 +69,9 @@ header{
   border-top:1px solid #eee;
 }
 
+.message-wrapper img{
+width:300px;
+}
 
 footer img{
   width:124px;

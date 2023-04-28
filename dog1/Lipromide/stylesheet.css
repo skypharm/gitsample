@@ -68,6 +68,10 @@ header{
 }
 
 
+.message-wrapper img{
+  width:300px;
+}
+
 footer img{
   width:124px;
   font-size:12px;

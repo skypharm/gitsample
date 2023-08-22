@@ -58,6 +58,10 @@ header{
   padding-left:40px;
 }
 
+.detail span{
+  color:red;
+}
+
 
 .message-wrapper{
   text-align:center;

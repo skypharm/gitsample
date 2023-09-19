@@ -54,6 +54,13 @@ header{
   width:280px;
 }
 
+.attention p{
+  padding-left:40px;
+  color:red;
+
+}
+
+
 .detail{
   padding-left:40px;
 }

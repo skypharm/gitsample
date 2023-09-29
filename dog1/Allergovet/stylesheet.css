@@ -54,9 +54,16 @@ header{
   width:400px;
 }
 
+.attention p{
+  padding-left:40px;
+  color:red;
+}
+
 .detail{
   padding-left:40px;
 }
+
+
 
 
 .message-wrapper{

@@ -57,6 +57,11 @@
     width:320px;
   }
   
+  .attention p{
+    padding-left:40px;
+    color:red;
+  }
+
   .detail p{
     padding-left:40px;
   }

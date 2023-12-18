@@ -47,7 +47,7 @@ header{
 
 .product{
   float:left;
-  width:100%;
+  width:50%;
 }
 
 .product img{
@@ -58,6 +58,10 @@ header{
   padding-left:40px;
 }
 
+.attention p{
+  padding-left:40px;
+  color:red;
+}
 
 .message-wrapper{
   text-align:center;

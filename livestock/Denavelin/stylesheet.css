@@ -31,18 +31,21 @@ header{
 }
 
 .product-wrapper{
-  padding-top:60px;
+  padding-top:50px;
   height:500px;
   text-align:center;
   background-color: #f7f7f7;
 }
 
-
+.product-wrapper h1{
+  padding-top:30px;
+}
 
 .product-icon p{
-  font-size:17px;
-  margin-top:20px;
-  margin-left:5px;
+  font-size:15px;
+  font-weight:bold;
+  margin-top:10px;
+  margin-left:10px;
 }
 
 .product{
@@ -51,31 +54,33 @@ header{
 }
 
 .product img{
-  width:350px;
+  width:320px;
 }
 
 .attention p{
   padding-left:40px;
   color:red;
+
 }
 
-
-.detail{
+.detail p{
   padding-left:40px;
 }
 
+ 
 
 .message-wrapper{
-  text-align:center;
-  background-color:#f7f7f7;
-  margin-top:10px;
-  padding-bottom:10px;
-  border-top:1px solid #eee;
+text-align:center;
+background-color:#f7f7f7;
+margin-top:10px;
+padding-bottom:10px;
+border-top:1px solid #eee;
 }
 
 .message-wrapper img{
-width:300px;
+width:250px;
 }
+
 
 
 footer img{

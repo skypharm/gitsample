@@ -37,7 +37,9 @@ header{
   background-color: #f7f7f7;
 }
 
-
+.product-wrapper h1{
+  padding-top:10px;
+}
 
 .product-icon p{
   font-size:15px;

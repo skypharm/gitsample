@@ -31,11 +31,17 @@ header{
 }
 
 .product-wrapper{
-  margin-top:140px;
+  margin-top:100px;
   height:500px;
   text-align:center;
   background-color: #f7f7f7;
 }
+
+.product-wrapper h1{
+  margin-top:30px;
+  
+}
+
 
 .product-icon p{
   font-size:20px;

@@ -36,11 +36,12 @@ header{
   text-align:center;
   background-color: #f7f7f7;
 }
-
-
+.product-wrapper h1{
+  padding-top:70px;
+}
 
 .product-icon p{
-  font-size:15px;
+  font-size:17px;
   margin-top:20px;
   margin-left:5px;
 }

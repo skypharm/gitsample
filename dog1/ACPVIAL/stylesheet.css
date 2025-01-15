@@ -37,10 +37,13 @@ header{
   background-color: #f7f7f7;
 }
 
+.product-wrapper h1{
+  padding-top:30px;
 
+}
 
 .product-icon p{
-  font-size:15px;
+  font-size:17px;
   padding-top:2px;
   margin-left:5px;
 }

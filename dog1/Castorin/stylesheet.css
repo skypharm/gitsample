@@ -32,11 +32,14 @@ header{
 
 .product-wrapper{
   padding-top:50px;
-  height:500px;
+  height:530px;
   text-align:center;
   background-color: #f7f7f7;
 }
 
+.product-wrapper h1{
+  padding-top:30px;
+}
 
 
 .product-icon p{

@@ -32,9 +32,13 @@ header{
 
 .product-wrapper{
   padding-top:60px;
-  height:540px;
+  height:570px;
   text-align:center;
   background-color: #f7f7f7;
+}
+
+.product-wrapper h1{
+  padding-top:30px;
 }
 
 

@@ -40,14 +40,14 @@ header{
 
 
 .product-icon p{
-  font-size:17px;
+  font-size:15px;
   margin-top:20px;
   margin-left:5px;
 }
 
 .product{
   float:left;
-  width:20%;
+  width:16%;
 }
 
 .product img{

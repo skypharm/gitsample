@@ -50,11 +50,11 @@ header{
 
 .product{
   float:left;
-  width:50%;
+  width:33%;
 }
 
 .product img{
-  width:350px;
+  width:300px;
 }
 
 .detail p{

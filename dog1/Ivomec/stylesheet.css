@@ -63,6 +63,11 @@ header{
   padding-bottom:20px;
 }
 
+.contact-text{
+  text-aligin:center;
+  background-color:#f7f7f7;
+}
+
 
 .message-wrapper{
   text-align:center;

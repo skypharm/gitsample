@@ -64,6 +64,13 @@ header{
   padding-bottom:20px;
 }
 
+.contact-text{
+  text-align:center;
+  background-color:#f7f7f7;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
 
 .message-wrapper{
   text-align:center;

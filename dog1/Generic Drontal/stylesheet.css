@@ -30,6 +30,13 @@ header{
   letter-spacing: 10px;
 }
 
+.contact-text{
+  text-align:center;
+  background-color:#f7f7f7;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
 .product-wrapper{
   padding-top:50px;
   height:550px;

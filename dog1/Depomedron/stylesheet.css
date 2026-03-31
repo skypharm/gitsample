@@ -61,9 +61,11 @@ header{
   color:red;
 }
 
-.detail{
+.detail p{
   padding-left:40px;
 }
+
+
 
 .contact-text{
   text-align:center;
